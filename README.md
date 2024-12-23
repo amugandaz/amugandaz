@@ -5,17 +5,17 @@
 - 📫 How to reach me : [**azmuganda@gmail.com**](mailto:azmuganda@gmail.com)
 - 😄 Pronouns : *He/Him*
 
-**Motivation**
-💡 _"Passionate about uncovering the stories hidden in data to drive impactful decisions."_
-🔍 _"Inspired by the power of data to solve complex problems and transform industries."_
-📊 _"Data is not just numbers; it’s the key to understanding human behavior and trends."_
+**Motivation**  
+💡 _"Passionate about uncovering the stories hidden in data to drive impactful decisions."_  
+🔍 _"Inspired by the power of data to solve complex problems and transform industries."_  
+📊 _"Data is not just numbers; it’s the key to understanding human behavior and trends."_  
 
-**Future Goals**
-🚀 Become an expert in digital transformation for businesses, helping organizations adopt data-driven tools and strategies to enhance efficiency and competitiveness.
-🌍 Contribute to global projects that leverage data to address real-world challenges, such as combating climate change or improving healthcare systems.
+**Future Goals**  
+🚀 Become an expert in digital transformation for businesses, helping organizations adopt data-driven tools and strategies to enhance efficiency and competitiveness.  
+🌍 Contribute to global projects that leverage data to address real-world challenges, such as combating climate change or improving healthcare systems.  
 
-**Personal mantra**
-🎯 *"Empowering decisions through data, one insight at a time."*
-💬 *"In a world full of data, I strive to uncover its true value."*
-🌟 *"Stay curious, embrace challenges, and always aim to make an impact."*
-📊 *"Transforming raw data into meaningful actions that drive progress."*
+**Personal mantra**  
+🎯 *"Empowering decisions through data, one insight at a time."*  
+💬 *"In a world full of data, I strive to uncover its true value."*  
+🌟 *"Stay curious, embrace challenges, and always aim to make an impact."*  
+📊 *"Transforming raw data into meaningful actions that drive progress."*  
