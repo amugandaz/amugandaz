@@ -1,6 +1,5 @@
 - 👋 Hi, I’m **Aaron**.
 - 👀 I’m interested in **data engineering, data analysis and data visualization**.
-- 🌱 I’m currently learning **data ETL, advanced data pipelines, and visualization tools like Power BI and Tableau**.
 - 💞️ I’m looking to collaborate on projects involving **big data, real-time analytics, or building interactive dashboards**.
 - 📫 How to reach me : [**azmuganda@gmail.com**](mailto:azmuganda@gmail.com)
 - 😄 Pronouns : *He/Him*
